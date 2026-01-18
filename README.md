@@ -1,4 +1,7 @@
 # Certification_of_Data_Analytics_Course.
+
+# DATA ANALYST TRAINING 
+
 I Completed a **6-month Data Analyst certification course** from **Coding Seekho Institute, Pune**, conducted by **PROF.VIKAS SINGH**.
  
  **Course Duration:** November 2024 – May 2025  
